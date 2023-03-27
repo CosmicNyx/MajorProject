@@ -45,6 +45,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 7
+    - _SurfaceInput: 0
     - _dissolve: 0
     m_Colors:
     - _Color: {r: 0.0627451, g: 7.780392, b: 5.8352942, a: 0}

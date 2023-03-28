@@ -3,7 +3,7 @@ using UnityEngine;
 public class TriggerMaterialController : MonoBehaviour
 {
     public Material targetMaterial;
-    public float inputIncrement = 0.1f;
+    public float inputIncrement = 1.5f;
 
     private bool playerEntered = false;
 

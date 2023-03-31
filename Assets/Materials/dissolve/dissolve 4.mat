@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: dissolve 1
+  m_Name: dissolve 4
   m_Shader: {fileID: -6465566751694194690, guid: 5672965632a538545b4ad6a0160fbc79,
     type: 3}
   m_ValidKeywords: []
@@ -43,18 +43,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Bottomline: 0.567
+    - _Bottomline: 0.695
     - _QueueControl: 0
     - _QueueOffset: 7
     - _SurfaceInput: 0
     - _dissolve: 0
-    - _topline: 0.566
+    - _topline: 0.56
     m_Colors:
-    - _BKGRColor: {r: 1.6078432, g: 0, b: 1.372549, a: 0}
+    - _BKGRColor: {r: 0.25700638, g: 0, b: 7.4103503, a: 0}
     - _Color: {r: 0.0627451, g: 7.780392, b: 5.8352942, a: 0}
-    - _GlowColor: {r: 38.429657, g: 0, b: 22.907091, a: 0}
-    - _bottomcolor: {r: 3.9686275, g: 3.2, b: 0, a: 1}
-    - _topcolor: {r: 0, g: 5.992157, b: 6.4313726, a: 1}
+    - _GlowColor: {r: 38.429653, g: 0, b: 23.788065, a: 0}
+    - _bottomcolor: {r: 3.9686277, g: 0, b: 2.9893165, a: 1}
+    - _topcolor: {r: 0.8729873, g: 6.4313736, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &8791617487006911518
 MonoBehaviour:

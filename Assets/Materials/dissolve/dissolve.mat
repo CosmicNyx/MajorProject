@@ -22,7 +22,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Texture2D:
-        m_Texture: {fileID: 2800000, guid: 9e0a1f2f87570f447915245097197778, type: 3}
+        m_Texture: {fileID: 2800000, guid: 8d781dbaa55f8a94da80b4f6a8b2a6bb, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture3DAsset_ad9d9116635e4fffa3b51c679845406b_Out_0:
@@ -43,18 +43,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Bottomline: 0.35
+    - _Bottomline: 0.757
     - _QueueControl: 0
     - _QueueOffset: 7
-    - _SurfaceInput: 0.82944447
+    - _SurfaceInput: 0
     - _dissolve: 0
-    - _topline: 0.65
+    - _topline: 0.648
     m_Colors:
-    - _BKGRColor: {r: 0, g: 0, b: 0, a: 0}
+    - _BKGRColor: {r: 1.6784314, g: 1.1607844, b: 0, a: 0}
     - _Color: {r: 0.0627451, g: 7.780392, b: 5.8352942, a: 0}
-    - _GlowColor: {r: 0, g: 2.431373, b: 2.807843, a: 0}
-    - _bottomcolor: {r: 1, g: 1, b: 1, a: 1}
-    - _topcolor: {r: 1, g: 1, b: 1, a: 1}
+    - _GlowColor: {r: 0, g: 4.8806486, b: 5.615686, a: 0}
+    - _bottomcolor: {r: 0.7058949, g: 4.078432, b: 0, a: 1}
+    - _topcolor: {r: 0, g: 0.54532397, b: 8.397989, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &8791617487006911518
 MonoBehaviour:

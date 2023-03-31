@@ -743,8 +743,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 50609374}
-  m_LocalRotation: {x: 0, y: -0.7364514, z: 0, w: 0.6764905}
-  m_LocalPosition: {x: 0.721, y: 2.134, z: -3.443}
+  m_LocalRotation: {x: -0, y: -0.7364514, z: -0, w: 0.6764905}
+  m_LocalPosition: {x: 0.7400004, y: 2.134, z: -3.6800003}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -25227,7 +25227,6 @@ GameObject:
   - component: {fileID: 1464654662}
   - component: {fileID: 1464654661}
   - component: {fileID: 1464654660}
-  - component: {fileID: 1464654659}
   - component: {fileID: 1464654658}
   m_Layer: 0
   m_Name: Player
@@ -25250,19 +25249,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sensitivity: 100
   initialCameraRotation: {x: 0, y: 0, z: 0}
---- !u!114 &1464654659
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1464654657}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e14902d2775cd340af9717575c7b315, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 6
 --- !u!114 &1464654660
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25302,7 +25288,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1464654657}
   m_LocalRotation: {x: -0, y: 0.99546427, z: -0, w: 0.09513625}
-  m_LocalPosition: {x: 247.38, y: 3.6800003, z: -41.24}
+  m_LocalPosition: {x: -15.1, y: 3.6800003, z: 35.6}
   m_LocalScale: {x: 1.9369004, y: 1.9369, z: 1.9369004}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -30294,7 +30280,7 @@ GameObject:
   - component: {fileID: 1854640730}
   m_Layer: 0
   m_Name: Capsule
-  m_TagString: MainCamera
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30320,7 +30306,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1854640729}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -30370,9 +30356,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1854640729}
-  m_LocalRotation: {x: -0, y: 0.36126572, z: -0, w: -0.93246293}
-  m_LocalPosition: {x: 0.7505182, y: 0.35623866, z: -3.5733805}
-  m_LocalScale: {x: 0.95581055, y: 1.4671382, z: 0.95581055}
+  m_LocalRotation: {x: -0, y: 0.36126575, z: -0, w: -0.93246293}
+  m_LocalPosition: {x: 0.7505184, y: 0.35623866, z: -3.5733802}
+  m_LocalScale: {x: 0.9558111, y: 1.4671382, z: 0.9558111}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1464654662}

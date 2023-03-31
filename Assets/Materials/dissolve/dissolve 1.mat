@@ -46,7 +46,7 @@ Material:
     - _Bottomline: 0.512
     - _QueueControl: 0
     - _QueueOffset: 7
-    - _SurfaceInput: 0
+    - _SurfaceInput: 1.8736476
     - _dissolve: 0
     - _topline: 0.65
     m_Colors:

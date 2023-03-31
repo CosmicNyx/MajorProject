@@ -784,8 +784,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flickeringMaterial: {fileID: 2100000, guid: 6198939696bcb1c47a6e894fdeb869cf, type: 2}
-  flickerSpeed: 1
-  minBottomLine: 0.4
+  flickerSpeed: 0.87
+  minBottomLine: 0.35
   maxBottomLine: 0.6
 --- !u!1001 &39347392
 PrefabInstance:
@@ -2186,7 +2186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flickeringMaterial: {fileID: 2100000, guid: 46babfd19bb11b54cb77378058995cf9, type: 2}
   flickerSpeed: 1
-  minBottomLine: 0.4
+  minBottomLine: 0.2
   maxBottomLine: 0.6
 --- !u!1001 &104274082
 PrefabInstance:
@@ -3433,7 +3433,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flickeringMaterial: {fileID: 2100000, guid: c2ff5cc524529714f8066b8be4db7319, type: 2}
-  flickerSpeed: 1
+  flickerSpeed: 0.8
   minBottomLine: 0.4
   maxBottomLine: 0.6
 --- !u!1001 &156406726
@@ -7332,9 +7332,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flickeringMaterial: {fileID: 2100000, guid: 287ebe6a238b06f4fb90f01e9de3e361, type: 2}
-  flickerSpeed: 1
-  minBottomLine: 0.4
-  maxBottomLine: 0.6
+  flickerSpeed: 0.9
+  minBottomLine: 0.32
+  maxBottomLine: 0.87
 --- !u!1001 &310401090
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7789,9 +7789,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flickeringMaterial: {fileID: 2100000, guid: 6a9d9c1434a261047922312054fae585, type: 2}
-  flickerSpeed: 1
-  minBottomLine: 0.4
-  maxBottomLine: 0.6
+  flickerSpeed: 1.4
+  minBottomLine: 0.2
+  maxBottomLine: 0.57
 --- !u!1001 &350316951
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19141,7 +19141,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66c6094e2dd56a146aae3a295e27b00d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 9.454282
+      value: 6.5995617
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66c6094e2dd56a146aae3a295e27b00d, type: 3}
       propertyPath: m_LocalScale.z
@@ -19149,15 +19149,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66c6094e2dd56a146aae3a295e27b00d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.3719482
+      value: -5.71
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66c6094e2dd56a146aae3a295e27b00d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.905726
+      value: 2.64
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66c6094e2dd56a146aae3a295e27b00d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10.752182
+      value: -10.94
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 66c6094e2dd56a146aae3a295e27b00d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -20241,7 +20241,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   flickeringMaterial: {fileID: 2100000, guid: 154ff929967626246b596dbdf0e216b1, type: 2}
   flickerSpeed: 1
-  minBottomLine: 0.4
+  minBottomLine: 0.25
   maxBottomLine: 0.6
 --- !u!1 &1092233342
 GameObject:
@@ -21785,8 +21785,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1172793796}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 242.91176, y: 20.467772, z: -145.79692}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -25.779373, y: 39.679794, z: 203.86159}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -21798,8 +21798,8 @@ Transform:
   - {fileID: 343088551}
   - {fileID: 310370511}
   - {fileID: 1087691363}
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 1242026620}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1174601090
 PrefabInstance:
@@ -23265,6 +23265,7 @@ Transform:
   - {fileID: 1913124052}
   - {fileID: 766605435}
   - {fileID: 1157434125}
+  - {fileID: 1172793797}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -27863,7 +27864,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 458414c9943675242b5f390e2489a360, type: 3}
       propertyPath: m_LocalScale.y
-      value: 9.475937
+      value: 6.0645995
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 458414c9943675242b5f390e2489a360, type: 3}
       propertyPath: m_LocalScale.z
@@ -27871,15 +27872,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 458414c9943675242b5f390e2489a360, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.998047
+      value: 6.44
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 458414c9943675242b5f390e2489a360, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.3442738
+      value: 1.88
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 458414c9943675242b5f390e2489a360, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.352188
+      value: -15.74
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 458414c9943675242b5f390e2489a360, type: 3}
       propertyPath: m_LocalRotation.w
@@ -30491,9 +30492,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flickeringMaterial: {fileID: 2100000, guid: e1f97efe69b12a94c8c43835fed67341, type: 2}
-  flickerSpeed: 1
-  minBottomLine: 0.4
-  maxBottomLine: 0.6
+  flickerSpeed: 0.3
+  minBottomLine: 0.45
+  maxBottomLine: 0.7
 --- !u!1001 &1689636127
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35720,9 +35721,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flickeringMaterial: {fileID: 2100000, guid: 9e28bc377885db24aae69aa321b2ae4b, type: 2}
-  flickerSpeed: 1
-  minBottomLine: 0.4
-  maxBottomLine: 0.6
+  flickerSpeed: 0.4
+  minBottomLine: 0.6
+  maxBottomLine: 0.9
 --- !u!1001 &1992445903
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -14,18 +14,6 @@
         },
         {
             "m_Id": "cdddc753d84c4c7a81cda494aab39b24"
-        },
-        {
-            "m_Id": "b8bc1c49387d44b1be54981229785da4"
-        },
-        {
-            "m_Id": "3b53d5b993ac40a498a666d0c7c0c538"
-        },
-        {
-            "m_Id": "a3e0f2581c1b4dc19e8deac2b8fa6509"
-        },
-        {
-            "m_Id": "57fceaeebfa249d19ac1ff1941d2da57"
         }
     ],
     "m_Keywords": [],
@@ -610,33 +598,6 @@
 }
 
 {
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
-    "m_ObjectId": "3b53d5b993ac40a498a666d0c7c0c538",
-    "m_Guid": {
-        "m_GuidSerialized": "4f6b3539-5a96-4421-9af4-ff4e2b334b3d"
-    },
-    "m_Name": "Bottomline",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Bottomline",
-    "m_DefaultReferenceName": "_Bottomline",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": 0.3499999940395355,
-    "m_FloatType": 1,
-    "m_RangeValues": {
-        "x": 0.0,
-        "y": 1.0
-    }
-}
-
-{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.BlockNode",
     "m_ObjectId": "3c42fee9b0ae412e8a7ea3b841c87604",
@@ -892,33 +853,6 @@
     },
     "isMainColor": false,
     "m_ColorMode": 1
-}
-
-{
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
-    "m_ObjectId": "57fceaeebfa249d19ac1ff1941d2da57",
-    "m_Guid": {
-        "m_GuidSerialized": "91ea3a10-da47-47eb-abf9-915b6f90c8e1"
-    },
-    "m_Name": "topline",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "topline",
-    "m_DefaultReferenceName": "_topline",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": 0.6499999761581421,
-    "m_FloatType": 1,
-    "m_RangeValues": {
-        "x": 0.0,
-        "y": 1.0
-    }
 }
 
 {
@@ -1482,18 +1416,6 @@
         },
         {
             "m_Id": "516b64b73a4d4622ace766df0523d149"
-        },
-        {
-            "m_Id": "b8bc1c49387d44b1be54981229785da4"
-        },
-        {
-            "m_Id": "3b53d5b993ac40a498a666d0c7c0c538"
-        },
-        {
-            "m_Id": "a3e0f2581c1b4dc19e8deac2b8fa6509"
-        },
-        {
-            "m_Id": "57fceaeebfa249d19ac1ff1941d2da57"
         }
     ]
 }
@@ -1509,35 +1431,6 @@
     "m_ShaderOutputName": "Out",
     "m_StageCapability": 3,
     "m_BareResource": false
-}
-
-{
-    "m_SGVersion": 3,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty",
-    "m_ObjectId": "a3e0f2581c1b4dc19e8deac2b8fa6509",
-    "m_Guid": {
-        "m_GuidSerialized": "587c20b7-c5a2-442b-b995-8b6b745f7191"
-    },
-    "m_Name": "topcolor",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "topcolor",
-    "m_DefaultReferenceName": "_topcolor",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-    },
-    "isMainColor": false,
-    "m_ColorMode": 1
 }
 
 {
@@ -1705,35 +1598,6 @@
     },
     "m_Labels": [],
     "m_Space": 3
-}
-
-{
-    "m_SGVersion": 3,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty",
-    "m_ObjectId": "b8bc1c49387d44b1be54981229785da4",
-    "m_Guid": {
-        "m_GuidSerialized": "7371ccea-e963-4dba-8e28-ae2edc6537b2"
-    },
-    "m_Name": "bottomcolor",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "bottomcolor",
-    "m_DefaultReferenceName": "_bottomcolor",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 1.0
-    },
-    "isMainColor": false,
-    "m_ColorMode": 1
 }
 
 {

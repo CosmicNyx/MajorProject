@@ -10453,7 +10453,7 @@ PrefabInstance:
     - target: {fileID: 2300000, guid: 23bfb1e174f7f4e49a4d133f7c0eb584, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: b6084eb79fd774d4598a05c6b7f4fc7d, type: 2}
+      objectReference: {fileID: 2100000, guid: b0de085fcec0730478726fd43edea10f, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 23bfb1e174f7f4e49a4d133f7c0eb584, type: 3}
 --- !u!4 &564982476 stripped
@@ -32076,7 +32076,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f026144bd0dc074a95b075cbdf95201, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetMaterial: {fileID: 2100000, guid: b6084eb79fd774d4598a05c6b7f4fc7d, type: 2}
+  targetMaterial: {fileID: 2100000, guid: b0de085fcec0730478726fd43edea10f, type: 2}
   inputIncrement: 0.1
 --- !u!65 &1944299805
 BoxCollider:

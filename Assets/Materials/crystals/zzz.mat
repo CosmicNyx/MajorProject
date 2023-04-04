@@ -35,7 +35,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BottomLine: 0.46393716
+    - _BottomLine: 0.40936828
     - _Metallic: 1
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -43,7 +43,7 @@ Material:
     - _TopLine: 0.633
     m_Colors:
     - _BaseColor: {r: 1.1410372, g: 0.17801045, b: 2, a: 1}
-    - _BottomColor: {r: 0.20496789, g: 3.9148865, b: 3.8533962, a: 1}
+    - _BottomColor: {r: 0.40993577, g: 7.829773, b: 7.7067924, a: 1}
     - _TopColor: {r: 2.1667674, g: 3.9616923, b: 0.2074184, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &8688300655520974893

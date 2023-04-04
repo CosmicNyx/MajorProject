@@ -52,7 +52,7 @@ Material:
     m_Colors:
     - _BKGRColor: {r: 0, g: 2.0669584, b: 7.4103518, a: 0}
     - _Color: {r: 0.0627451, g: 7.780392, b: 5.8352942, a: 0}
-    - _GlowColor: {r: 0.42084444, g: 8.712442, b: 0, a: 0}
+    - _GlowColor: {r: 8.712442, g: 0, b: 0, a: 0}
     - _bottomcolor: {r: 3.9686277, g: 0, b: 2.9893165, a: 1}
     - _topcolor: {r: 6.0945983, g: 6.4313736, b: 0, a: 1}
   m_BuildTextureStacks: []
